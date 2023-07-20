@@ -1,6 +1,15 @@
-# flutter_youniu_app
+# flutter-project-base
 
-Flutter 版本的有牛 App
+Flutter App 基础框架
+
+// 配置
+Flutter SDK：3.10.6
+Dart: 3.0.0
+DevTools: 2.23.1
+
+Get: 4.6.5
+retrofit: '>=4.0.0 <5.0.0'
+dio: 5.2.1+1
 
 ## Getting Started
 
